@@ -3,11 +3,11 @@ entries:
   helm-chart:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-04-01T15:43:36.385947145+05:30"
+    created: "2021-04-01T16:01:11.259082311+05:30"
     description: A Helm chart for Kubernetes
     digest: e00f54a9896ff30d06f68753b2fbab2ae9a71c74f3edef46dc77cd0bfdbb56b5
     name: helm-chart
     urls:
-    - https://github.com/raiyanrayza/helm-charts/helm-chart-1.1.0.tgz
+    - https://raiyanrayza.github.io/helm-charts/helm-chart-1.1.0.tgz
     version: 1.1.0
-generated: "2021-04-01T15:43:36.385326061+05:30"
+generated: "2021-04-01T16:01:11.258599924+05:30"
